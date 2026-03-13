@@ -1,0 +1,191 @@
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:"Jost", sans-serif;
+}
+
+
+:root{
+  --gradiente: linear-gradient(135deg,#667eea,#764ba2);
+  --branco:#ffffff;
+  --texto:#333;
+}
+
+/* body */
+
+body{
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  padding:20px;
+  background:var(--gradiente);
+}
+
+/* card */
+
+.content{
+  width:100%;
+  max-width:420px;
+
+  background:rgba(255,255,255,0.15);
+  backdrop-filter:blur(12px);
+
+  border-radius:24px;
+
+  padding:50px 30px;
+
+  display:flex;
+  flex-direction:column;
+  gap:40px;
+
+  box-shadow:0 12px 30px rgba(0,0,0,0.25);
+}
+
+/* header */
+
+header{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  text-align:center;
+  gap:18px;
+}
+
+header img{
+  width:110px;
+  height:110px;
+
+  border-radius:50%;
+  border:3px solid white;
+
+  object-fit:cover;
+}
+
+header h1{
+  color:white;
+  font-size:28px;
+}
+
+header p{
+  color:#eeeeee;
+  font-size:14px;
+  line-height:1.6;
+  max-width:280px;
+}
+
+/* mainL */
+
+.content_main{
+  display:flex;
+  flex-direction:column;
+  gap:30px;
+}
+
+/* redes sociais */
+
+.content_main ul{
+  list-style:none;
+  display:flex;
+  justify-content:center;
+  gap:35px;
+}
+
+.content_main ul a{
+  color:white;
+  font-size:26px;
+  transition:all 0.2s ease;
+}
+
+.content_main ul a:hover{
+  transform:scale(1.2);
+  opacity:0.8;
+}
+
+/* botões */
+
+main{
+  display:flex;
+  flex-direction:column;
+  gap:20px;
+}
+
+main a{
+  background:rgba(255,255,255,0.95);
+
+  border-radius:16px;
+
+  padding:18px 22px;
+
+  text-decoration:none;
+  color:var(--texto);
+
+  display:grid;
+  grid-template-columns:30px 1fr 20px;
+  align-items:center;
+  gap:10px;
+
+  font-weight:500;
+
+  transition:all 0.2s ease;
+}
+
+main a:hover{
+  transform:translateY(-4px);
+  box-shadow:0 8px 20px rgba(0,0,0,0.25);
+}
+
+main a i{
+  font-size:16px;
+}
+/*footer*/
+
+footer{
+  margin-top:10px;
+
+  background:rgba(255,255,255,0.25);
+  color:white;
+
+  border-radius:16px;
+  padding:16px 18px;
+
+  display:flex;
+  align-items:center;
+  gap:14px;
+
+  cursor:pointer;
+
+  transition:all 0.2s ease;
+}
+
+footer:hover{
+  background:rgba(255,255,255,0.4);
+}
+
+footer i{
+  font-size:20px;
+}
+
+footer h2{
+  font-size:16px;
+}
+
+footer p{
+  font-size:13px;
+}
+
+/* RESPONSIVO */
+
+@media(max-width:480px){
+
+  .content{
+    padding:40px 25px;
+  }
+
+  header h1{
+    font-size:24px;
+  }
+
+}
