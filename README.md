@@ -30,6 +30,7 @@ A aplicação facilita o acesso às minhas informações em um único lugar, com
 
 ---
 ## 📂 Estrutura do Projeto
+---
 linktree/
 │
 ├── index.html
