@@ -29,16 +29,21 @@ A aplicação facilita o acesso às minhas informações em um único lugar, com
 3. Ao clicar em um link, é redirecionado para o destino correspondente  
 
 ---
+
 ## 📂 Estrutura do Projeto
 
+```
 linktree/
 │
 ├── index.html
 ├── README.md
 └── assets/
-├── style.css
-└── img/
+    ├── style.css
+    └── img/
+```
+
 ---
+
 ## 🌐 Acesse o projeto
 
 👉 https://letxiz.github.io/linktree/
@@ -47,8 +52,7 @@ linktree/
 
 ## 📸 Preview do projeto
 
-<img width="452" height="725" alt="image" src="https://github.com/user-attachments/assets/871245e7-3fb9-4059-b98c-6a5630cb8cd8" />
-
+![WhatsApp Image 2026-03-17 at 16 43 40](https://github.com/user-attachments/assets/94981447-7f0e-462f-bcba-e39880876378)
 
 
 ---
@@ -62,5 +66,3 @@ Projeto desenvolvido por **Leticia Alves** como prática de desenvolvimento web 
 ## 📌 Observação
 
 Este projeto foi desenvolvido com foco em aprendizado e prática de front-end, aplicando conceitos de estruturação com HTML, estilização com CSS e construção de layouts responsivos.
-
-
