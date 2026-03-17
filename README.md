@@ -1,47 +1,65 @@
-🌐 Linktree Personal Page
+# 🌐 Linktree — Personal Page
 
-Uma página web desenvolvida para centralizar links pessoais, como portfólio, redes sociais e projetos em um único lugar.
+Uma página web desenvolvida com **HTML** e **CSS** para centralizar links pessoais como portfólio, redes sociais e projetos.
 
-O projeto tem como objetivo facilitar o acesso às minhas informações profissionais de forma simples, rápida e organizada.
+A aplicação facilita o acesso às minhas informações em um único lugar, com uma interface simples, organizada e responsiva.
 
-💡 Sobre o projeto
+---
 
-Este site foi desenvolvido como um projeto web para apresentar:
+## 🚀 Tecnologias Utilizadas
 
-Meus principais links em um único local
+- HTML5  
+- CSS3  
 
-Uma interface simples e intuitiva
+---
 
-Um layout responsivo para diferentes dispositivos
+## ✨ Funcionalidades
 
-Organização visual focada na experiência do usuário
+- Centralização de links importantes  
+- Layout limpo e organizado  
+- Design responsivo para diferentes dispositivos  
+- Navegação rápida e intuitiva  
 
-🛠 Tecnologias utilizadas
+---
 
-HTML5
+## 🧠 Como funciona
 
-CSS3
+1. O usuário acessa a página  
+2. Visualiza os links disponíveis (portfólio, redes, etc)  
+3. Ao clicar em um link, é redirecionado para o destino correspondente  
 
-🚀 Como visualizar o projeto
+---
+linktree/
+│
+├── index.html
+├── README.md
+└── assets/
+├── style.css
+└── img/
 
-Você pode acessar o site diretamente pelo link abaixo:
+---
 
-https://letxiz.github.io/linktree/
+## 🌐 Acesse o projeto
 
-Ou, se preferir executar localmente:
+👉 https://letxiz.github.io/linktree/
 
-Baixe ou clone este repositório
+---
 
-Abra o arquivo index.html em seu navegador
+## 📸 Preview do projeto
 
-📸 Preview
+![WhatsApp Image 2026-03-17 at 16 43 40](https://github.com/user-attachments/assets/9f54df91-7e6f-4aec-a2b3-e337d8cee502)
 
-![WhatsApp Image 2026-03-17 at 16 43 40](https://github.com/user-attachments/assets/d0ff1ea1-d3b2-4fea-8522-978098dcd400)
 
-👩‍💻 Autora
+---
 
-Projeto desenvolvido por Leticia Alves como prática de desenvolvimento web utilizando HTML e CSS.
+## 👩‍💻 Autora
 
-📌 Observação
+Projeto desenvolvido por **Leticia Alves** como prática de desenvolvimento web utilizando HTML e CSS.
 
-Este projeto foi criado com fins educacionais e com o objetivo de aprimorar habilidades em desenvolvimento front-end.
+---
+
+## 📌 Observação
+
+Este projeto foi desenvolvido com foco em aprendizado e prática de front-end, aplicando conceitos de estruturação com HTML, estilização com CSS e construção de layouts responsivos.
+
+## 📂 Estrutura do Projeto
