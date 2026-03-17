@@ -29,6 +29,7 @@ A aplicação facilita o acesso às minhas informações em um único lugar, com
 3. Ao clicar em um link, é redirecionado para o destino correspondente  
 
 ---
+## 📂 Estrutura do Projeto
 linktree/
 │
 ├── index.html
@@ -63,4 +64,4 @@ Projeto desenvolvido por **Leticia Alves** como prática de desenvolvimento web 
 
 Este projeto foi desenvolvido com foco em aprendizado e prática de front-end, aplicando conceitos de estruturação com HTML, estilização com CSS e construção de layouts responsivos.
 
-## 📂 Estrutura do Projeto
+
