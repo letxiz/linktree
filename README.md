@@ -30,7 +30,7 @@ A aplicação facilita o acesso às minhas informações em um único lugar, com
 
 ---
 ## 📂 Estrutura do Projeto
----
+
 linktree/
 │
 ├── index.html
@@ -38,9 +38,7 @@ linktree/
 └── assets/
 ├── style.css
 └── img/
-
 ---
-
 ## 🌐 Acesse o projeto
 
 👉 https://letxiz.github.io/linktree/
