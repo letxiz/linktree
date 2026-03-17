@@ -47,7 +47,8 @@ linktree/
 
 ## 📸 Preview do projeto
 
-![WhatsApp Image 2026-03-17 at 16 43 40](https://github.com/user-attachments/assets/9f54df91-7e6f-4aec-a2b3-e337d8cee502)
+<img width="452" height="725" alt="image" src="https://github.com/user-attachments/assets/871245e7-3fb9-4059-b98c-6a5630cb8cd8" />
+
 
 
 ---
