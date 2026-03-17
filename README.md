@@ -1,64 +1,47 @@
-🌐 Linktree - Página de Links Pessoal
+🌐 Linktree Personal Page
 
-Este projeto é uma página estilo Linktree, desenvolvida para centralizar e facilitar o acesso aos meus principais links, como portfólio, redes sociais e projetos.
+Uma página web desenvolvida para centralizar links pessoais, como portfólio, redes sociais e projetos em um único lugar.
 
-🔗 Acesse o projeto:
-https://letxiz.github.io/linktree/
+O projeto tem como objetivo facilitar o acesso às minhas informações profissionais de forma simples, rápida e organizada.
 
-🚀 Tecnologias utilizadas
+💡 Sobre o projeto
+
+Este site foi desenvolvido como um projeto web para apresentar:
+
+Meus principais links em um único local
+
+Uma interface simples e intuitiva
+
+Um layout responsivo para diferentes dispositivos
+
+Organização visual focada na experiência do usuário
+
+🛠 Tecnologias utilizadas
 
 HTML5
 
 CSS3
 
-💡 Sobre o projeto
+🚀 Como visualizar o projeto
 
-A proposta deste projeto foi criar uma interface simples, responsiva e funcional para reunir meus links em um só lugar.
+Você pode acessar o site diretamente pelo link abaixo:
 
-Durante o desenvolvimento, foquei em:
+https://letxiz.github.io/linktree/
 
-Estruturação semântica com HTML
+Ou, se preferir executar localmente:
 
-Estilização com CSS
+Baixe ou clone este repositório
 
-Responsividade para diferentes dispositivos
-
-Organização visual limpa e intuitiva
-
-🎯 Objetivo
-
-Este projeto faz parte dos meus estudos em desenvolvimento front-end, com o objetivo de:
-
-Praticar fundamentos de HTML e CSS
-
-Melhorar a construção de layouts
-
-Desenvolver projetos reais para portfólio
-
-📱 Responsividade
-
-A página foi desenvolvida para funcionar bem em:
-
-Desktop
-
-Tablets
-
-Smartphones
+Abra o arquivo index.html em seu navegador
 
 📸 Preview
 
-![WhatsApp Image 2026-03-17 at 16 40 21](https://github.com/user-attachments/assets/8deafa0e-8107-4988-8e23-26dec5bd0265)
+![WhatsApp Image 2026-03-17 at 16 43 40](https://github.com/user-attachments/assets/d0ff1ea1-d3b2-4fea-8522-978098dcd400)
 
+👩‍💻 Autora
 
-🛠️ Como executar o projeto
-# Clone o repositório
-git clone https://github.com/letxiz/linktree.git
+Projeto desenvolvido por Leticia Alves como prática de desenvolvimento web utilizando HTML e CSS.
 
-# Acesse a pasta
-cd linktree
+📌 Observação
 
-# Abra o arquivo index.html no navegador
-📌 Status do projeto
-
-✅ Concluído
-🔄 Sujeito a melhorias futuras
+Este projeto foi criado com fins educacionais e com o objetivo de aprimorar habilidades em desenvolvimento front-end.
